@@ -1,2 +1,2 @@
 # UCSDUnfoldingMaps
-The 1st course of Specialization "Object Oriented Java Programming: Data Structures and Beyond" on Coursera
+This repository contains the project which was done in the 1st course of Specialization "Object Oriented Java Programming: Data Structures and Beyond" by University of San Diego , California on Coursera.
